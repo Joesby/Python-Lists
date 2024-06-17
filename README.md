@@ -1,0 +1,1 @@
+This assignment covers different manipulation techniques for lists.
